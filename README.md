@@ -488,6 +488,7 @@ Recommendation History Page: Displays a log of the user's past recommendation qu
 aq
 
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f55e89db-dfce-4251-a58f-9958058ba8db" />
 
 
 
