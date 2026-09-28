@@ -1,5 +1,6 @@
 # packetsmartAI
 
+
 PocketSmart AI: Your Smart Budget & Recommendation Assistant
 Project Description
 Managing budgets across different life needs—like home decor, event planning, or jewelry shopping—can be overwhelming due to the wide variety of products, platforms, and price ranges. PocketSmart AI addresses this challenge through a GenAI-powered, cross-platform recommendation system that delivers personalized, budget-based suggestions for products and services.Using Gemini 1.5 Flash Pro, PocketSmart AI analyzes user preferences, budgets, and contextual needs to generate curated recommendations from popular platforms such as Amazon, Flipkart, IKEA, Swiggy, Zomato, OYO, and more. The platform helps users plan interior designs, parties, and even select matching jewelry for special occasions—all within their defined budgets.PocketSmart AI transforms budgeting into an intelligent, user-friendly experience through its smart planners, adaptive forms, and recommendation engine that bridges multiple categories and e-commerce ecosystems.
@@ -9,6 +10,7 @@ Scenario 2: AI-Based Party Budget Planning
 In the Party Planner, users input their total budget, guest count, event type, and venue details. Based on these inputs, the AI allocates the budget proportionally across catering, decoration, and entertainment, sourcing options from vendors listed on Swiggy, Zomato, and even accommodation services like OYO.The system tailors suggestions based on event type (e.g., birthday, corporate, wedding), helping users organize a successful event without financial guesswork.
 Scenario 3: Jewelry Recommendations for Occasions
 The Jewelry Budget Planner allows users to enter a budget, select the occasion, and define style preferences. Users can optionally upload an outfit image for the AI to consider color coordination and aesthetics. Gemini 1.5 Flash Pro analyzes the data and offers jewelry options from platforms like Amazon and Flipkart, tailored to occasion and style.This ensures that users receive elegant, matching jewelry suggestions that fit both their personal style and financial plan.
+
 
 
 
